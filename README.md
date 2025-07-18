@@ -74,7 +74,7 @@ BlockMarketAI: A blockchain-powered decentralized marketplace for secure data sh
 
 - [LinkedIn](https://www.linkedin.com/in/akash-singh-b17524228/)
 - [LeetCode](https://leetcode.com/u/aakashsinghs302/)
-- [Email](mailto:aakashsinghs302@gmail.com)
+- Email: aakashsinghs302@gmail.com
 
 ---
 
