@@ -66,6 +66,8 @@ BlockMarketAI: A blockchain-powered decentralized marketplace for secure data sh
 
 - LeetCode: [aakashsinghs302](https://leetcode.com/u/aakashsinghs302/)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/aakashsinghs302?theme=dark&font=Baloo+Bhaijaan)
+
 ---
 
 ## 📫 Connect with me
